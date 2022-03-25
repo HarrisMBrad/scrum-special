@@ -1,17 +1,19 @@
+
 # Yesterday
 
-- Yadda 1
-- Yadda 2
+- JavaScript Cheat Sheet
+- Mastery Points Checklist
+- Google Classroom
 
-# Today
+## Today
 
-- I di d this and that;
-- took care of Yadda 1;
+- R&D continued
+- Practice time
 
-# Tomorrow
+## Tomorrow
 
-- I need to take care of Yadda 2;
-- make new Yadda Yadda items todo for my future tomorrow's
+- Review Mastery Points Checklist
+- Off
 
 Thanks for taking the time to check out this README.md,
 
