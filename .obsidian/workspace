@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "5446f8f93fa6a236",
+    "type": "split",
+    "children": [
+      {
+        "id": "449030507f451758",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6699eaea264c1922",
+    "type": "split",
+    "children": [
+      {
+        "id": "f503409b73cb11d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66b35595ff2ef3ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "28bbf73cda1aef4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c04fcc0a1942d3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a3ade49e10ac653",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fd7a14fdc3c2e75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb5ac00fb0446e4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "449030507f451758",
+  "lastOpenFiles": [
+    "README.md"
+  ]
+}
